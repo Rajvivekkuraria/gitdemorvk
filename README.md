@@ -1,3 +1,3 @@
 # gitdemorvk
-This is my first Git repo<br>Author : Rajvivekkuraria
+This is my first Git repository <br>Author : Rajvivekkuraria
 
